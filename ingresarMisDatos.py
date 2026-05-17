@@ -21,7 +21,6 @@ fecha_nac = datetime.datetime.strptime(fechanacimiento, "%Y-%m-%d").date()
 
 # Fecha actual
 hoy = datetime.date.today()
-
 # Calcular edad (forma correcta)
 edad = hoy.year - fecha_nac.year - ((hoy.month, hoy.day) < (fecha_nac.month, fecha_nac.day))
 
