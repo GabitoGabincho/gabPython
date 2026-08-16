@@ -33,6 +33,8 @@ idioma3t = idiomas["idioma3"]
 
 idiomas2 = (idioma1t,idioma2t,idioma3t)
 
+#enviar a github
+
 
 
 
