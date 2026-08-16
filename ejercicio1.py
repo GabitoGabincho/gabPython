@@ -1,4 +1,12 @@
-#ingresar datos por pantalla y asignarlos a una variable
+'''ingresar datos personales por pantalla ,
+   asignarlos a  variables 
+   los idiomas guardarlos en un diccionario como lengua nativa , Segundo lengua y 
+   tercera lengua
+   En base a la fecha de nacimiento y la fecha actual calcular los años que tiene actualmente
+   Imprimir por pantalla los datos dentro de un texto presentacion una linea debajo de la otra
+   
+'''
+
 from datetime import date, datetime
 
 def calcularEdad(fecha_nacimiento):
